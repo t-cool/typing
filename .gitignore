@@ -1,0 +1,7 @@
+*.swp
+node_modules
+build.sh
+archive.sh
+pdftron-*
+.DS_Store
+package-lock
