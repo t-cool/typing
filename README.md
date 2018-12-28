@@ -1,4 +1,4 @@
-# Typewriter
+# Tcool-typewriter
 
 タイピングで学ぶ英語ライティング
 
