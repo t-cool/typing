@@ -1,6 +1,6 @@
 # Tcool-typewriter
 
-タイピングで学ぶ英語ライティング
+a typing practice app
 
 ## Credit
 
