@@ -1,4 +1,4 @@
-# Tcool-typewriter
+# typing
 
 a typing practice app
 
